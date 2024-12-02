@@ -1,6 +1,6 @@
-# Título do projeto
+# Telemarketing
 
-Um simples resumo do uso/propósito do projeto.
+Projeto de análise de dados.
 
 ## Descrição do projeto
 
@@ -10,35 +10,18 @@ Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do 
 
 ### Dependencias
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
-
-### Instalação
-
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
-
+- Windows 10
+- Python
+- pandas, streamlit, seaborn, matplotlib
+  
 ### Executando o projeto
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
+(LINK Render) https://telemarketing-n5tx.onrender.com/
 
-## Ajuda
 
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
+## Autor
 
-## Autores
-
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
+[@JoaoPLourenco](www.linkedin.com/in/joaop-lourenco)
 
 ## Histórico de versões.
 
@@ -46,10 +29,6 @@ ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
 	* Ajustes de diversos bugs e otimização
 * 0.1
     * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
 
 ## Fontes de inspiração
 
